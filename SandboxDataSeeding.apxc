@@ -1,6 +1,6 @@
 public class SandboxDataSeeding {
     
-    public SandboxDataSeeding() {
+    public SandboxDataSeeding() {//Init by calling new SandboxDataSeeding();
         CreateLead();
         CreateAccount();
     }
